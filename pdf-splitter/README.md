@@ -36,8 +36,8 @@ This project is a PDF Splitter/Merger that allows users to upload PDF files and 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Amit-10101/pdf-splitter-merger.git
-    cd pdf-splitter-merger
+    git clone https://github.com/Amit-10101/SkillRank.git
+    cd SkillRank/pdf-splitter-merger
     ```
 
 2. Install dependencies for both frontend and backend:

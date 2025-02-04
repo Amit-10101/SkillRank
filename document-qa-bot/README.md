@@ -36,8 +36,8 @@ This project is a Document Question Answer Bot that allows users to upload docum
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Amit-10101/document-question-answer-bot.git
-    cd document-question-answer-bot
+    git clone https://github.com/Amit-10101/SkillRank.git
+    cd SkillRank/document-question-answer-bot
     ```
 
 2. Install dependencies for both frontend and backend:
