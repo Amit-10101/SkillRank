@@ -23,7 +23,6 @@ This project is a Document Question Answer Bot that allows users to upload docum
 
 -   **Frontend**: Next.js, React, Tailwind CSS, Shadcn components
 -   **Backend**: Node.js, Express, Multer, Google Generative AI
--   **Styling**: Tailwind CSS
 
 ## Getting Started
 
@@ -37,7 +36,7 @@ This project is a Document Question Answer Bot that allows users to upload docum
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/document-question-answer-bot.git
+    git clone https://github.com/Amit-10101/document-question-answer-bot.git
     cd document-question-answer-bot
     ```
 
